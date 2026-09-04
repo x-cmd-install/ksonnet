@@ -7,7 +7,7 @@ about:
   head: 04138b9
   archived: true
   latestVersion: v0.13.1
-  collectedAt: 2026-09-04T19:52:14Z
+  collectedAt: 2026-09-04T20:49:19Z
 timeline:
   created: 2017-10-16
   lastCommit: 2019-02-05
@@ -85,6 +85,109 @@ total:
   openIssue: 147
   commit: 1097
 ---
+path: /home/runner/.x-repo/github.com/ksonnet/ksonnet
+collectedAt: 2026-09-04T20:49:22Z
+loc:
+  Go:
+    code: 1364119
+    comments: 147468
+    blanks: 93118
+    files: 3709
+  Json:
+    code: 111103
+    comments: 0
+    blanks: 1
+    files: 30
+  Jsonnet:
+    code: 78207
+    comments: 43687
+    blanks: 313
+    files: 154
+  Protobuf:
+    code: 5169
+    comments: 7667
+    blanks: 2701
+    files: 49
+  Yaml:
+    code: 4583
+    comments: 715
+    blanks: 176
+    files: 119
+  Sh:
+    code: 1017
+    comments: 113
+    blanks: 134
+    files: 24
+  Perl:
+    code: 859
+    comments: 140
+    blanks: 142
+    files: 8
+  AssemblyGAS:
+    code: 452
+    comments: 228
+    blanks: 223
+    files: 34
+  Bash:
+    code: 305
+    comments: 51
+    blanks: 33
+    files: 1
+  Toml:
+    code: 301
+    comments: 148
+    blanks: 149
+    files: 9
+  Pan:
+    code: 232
+    comments: 0
+    blanks: 17
+    files: 2
+  Makefile:
+    code: 216
+    comments: 68
+    blanks: 77
+    files: 12
+  Ruby:
+    code: 53
+    comments: 4
+    blanks: 16
+    files: 1
+  Dockerfile:
+    code: 45
+    comments: 9
+    blanks: 12
+    files: 2
+  C:
+    code: 24
+    comments: 6
+    blanks: 8
+    files: 1
+  Svg:
+    code: 16
+    comments: 0
+    blanks: 16
+    files: 8
+  VimScript:
+    code: 1
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 11356
+    blanks: 5088
+    files: 231
+  Text:
+    code: 0
+    comments: 3505
+    blanks: 195
+    files: 58
+total:
+  code: 1569196
+  comments: 215502
+  blanks: 102790
+  files: 4453
 ---
 date: "2026-08-24"
 repo:
