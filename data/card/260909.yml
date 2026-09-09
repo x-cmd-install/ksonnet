@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.13.1"
   latestRelease: "v0.13.1"
   latestPrerelease: "v0.10.0-alpha.1"
-  collectedAt: 2026-09-09T04:58:17Z
+  collectedAt: 2026-09-09T19:18:37Z
 timeline:
   created: 2017-10-16
   lastCommit: 2019-02-05
@@ -88,7 +88,7 @@ total:
   commit: 1097
 ---
 path: /home/runner/.x-repo/github.com/ksonnet/ksonnet
-collectedAt: 2026-09-09T04:58:23Z
+collectedAt: 2026-09-09T19:18:43Z
 loc:
   Go:
     code: 1364119
