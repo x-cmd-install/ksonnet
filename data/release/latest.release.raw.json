@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 23034111,
       "digest": null,
-      "download_count": 168107,
+      "download_count": 168143,
       "created_at": "2018-11-21T21:42:03Z",
       "updated_at": "2018-11-21T21:42:10Z",
       "browser_download_url": "https://github.com/ksonnet/ksonnet/releases/download/v0.13.1/ks_0.13.1_linux_amd64.tar.gz"
