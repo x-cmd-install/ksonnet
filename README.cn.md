@@ -6,7 +6,7 @@
 
 A CLI-supported framework that streamlines writing and deployment of Kubernetes configurations to multiple clusters.
 
-[![x-cmd/install — ksonnet Code Quality Monitoring Repo Card](https://repo.x-cmd.io/ksonnet.svg?lang=zh)](https://x-cmd.com/install/ksonnet)
+[![x-cmd/install — ksonnet Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/ksonnet.svg?lang=zh)](https://x-cmd.com/install/ksonnet)
 
 ## 安装
 
@@ -32,9 +32,9 @@ x install ksonnet
 
 评分最低的几项:
 
-- **Dangerous-Workflow** (-1/10) — no workflows found
-- **Token-Permissions** (-1/10) — No tokens found
+- **Packaging** (-1/10) — packaging workflow not detected
 - **Maintained** (0/10) — project is archived
+- **Token-Permissions** (-1/10) — No tokens found
 
 ## 源代码
 
@@ -60,12 +60,12 @@ x install ksonnet
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-26 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-27 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-02 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-24 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-25 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-25 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-27 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-28 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-03 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release 资产
 
@@ -85,4 +85,4 @@ ksonnet 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:13:10Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:33:18Z._
